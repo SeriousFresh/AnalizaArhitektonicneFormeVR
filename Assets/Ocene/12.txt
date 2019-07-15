@@ -1,0 +1,18 @@
+Model 12 ocene:
+------------------------------------------
+Trenutak stampanja ocene: 7/15/2019 2:53:05 PM
+Neprijatno - Prijatno: 0
+Obicno - Neobicno: 0
+Ruzno - Lepo: 0
+Nametiljivo - Nenametiljvo: 0
+Napeto - Opusteno: 0
+Bolesno - Zdravo: 0
+Nesredjeno - Sredjeno: 0
+Neupecatljivo - Upecatljivo: 0
+Strogo - Blago: 0
+Nepravilno - Pravilno: 0
+Nemastovito - Mastovito: 0
+Nejasno - Jasno: 0
+ - Opcinjavajuce: 4
+ - Izuzetno: 4
+ - Neodoljivo: 4
